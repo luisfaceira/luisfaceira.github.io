@@ -1,0 +1,86 @@
+{
+    "title": "Luís Faceira",
+    "path_prefix": "/",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Luís Faceira",
+        "tagline": "Addicted Technologist",
+        "profile_img": "images/luisfaceira.jpg",
+        "profile_img_alt": "Author avatar",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            }
+        ],
+        "_old_nav_links": [
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/luisfaceira",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://linkedin.com/in/faceira",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            }
+        ],
+        "_old_social_links": [
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Luís Faceira & Stackbit. All rights reserved. This page was based on Stackbit's <a href=\"https://github.com/stackbit-themes/fresh-nextjs\" target=\"_blank\">fresh theme</a>."
+    }
+}
